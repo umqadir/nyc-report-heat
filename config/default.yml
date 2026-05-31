@@ -1,0 +1,23 @@
+per_source: 250
+discovery_lookback_days: 90
+daily_discovery_lookback_days: 14
+windows:
+  - 1
+  - 7
+  - 30
+rank_window: 7d
+request_timeout_seconds: 10
+request_sleep_seconds: 0.1
+max_workers: 6
+providers:
+  - googlenews
+  - hackernews
+source_ids:
+  - doi
+  - nyc_comptroller
+  - nys_comptroller
+  - ibo
+  - rules_proposed
+  - rules_adopted
+  - gpp
+expanded_gdelt_variants: false
