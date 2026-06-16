@@ -10,15 +10,15 @@
 - Document URL: n/a
 - Rank window: 7d
 - Heat score (7d): 10.0
-- Mentions: exact 0, canonical 0, filename 12, social exact 0, crawl 0
+- Mentions: exact 0, canonical 0, filename 11, social exact 0, crawl 0
 - Rationale: filename mentions found; lower-confidence heat
 
 Evidence:
-- googlenews: Indiana Earns Top Marks, New York Falls Short: Realtor.com®'s 2026 State Report Cards for Homebuilding, Affordability Reveal a Nation Divided - TradingView
+- googlenews: What income is middle class in Ohio? Where biggest cities rank - Cincinnati Enquirer
+- googlenews: Pennrose Breaks Ground on $51.9M Mixed-Income Boston TOD - Multifamily & Affordable Housing Business
+- googlenews: In Orange County, six-figure salaries now qualify as ‘low income’ - Long Beach Post
 - googlenews: Public Housing - Center on Budget and Policy Priorities
-- googlenews: What's considered middle class income in Indiana? - IndyStar
-- googlenews: These states spend the largest percent of income on fast food: Study - WHNT.com
-- googlenews: Sandy Ridge project aims to ease Durham's affordable housing shortage - ABC11 News
+- googlenews: What you need to earn to be middle class in Redding, other cities - Record Searchlight
 
 ## 2. Letter to SpaceX re: IPO From NYC Comptroller Levine, NYS Comptroller DiNapoli, and CalPERS CEO Frost
 
@@ -51,8 +51,8 @@ Evidence:
 - Rationale: filename mentions found; lower-confidence heat
 
 Evidence:
+- googlenews: Today's Podcast Episode: Coerced Debt: New York’s Landmark Law and Emerging Trends Nationwide - Part 1 - Consumer Finance Monitor
 - googlenews: Debt Collectors Shadow Spain’s National Team at the World Cup - Yahoo Finance
-- googlenews: Nonprofit eliminates over $4 million in medical debt in third wave of relief for Lexington residents - WKYT
 
 ## 4. Comments on New York City’s Executive Budget for Fiscal Year 2027 an...
 
@@ -63,13 +63,12 @@ Evidence:
 - URL: https://comptroller.nyc.gov/reports/comments-on-new-york-citys-executive-budget-for-fiscal-year-2027-and-financial-plan-for-fiscal-years-2026-2030
 - Document URL: n/a
 - Rank window: 7d
-- Heat score (7d): 4.0
-- Mentions: exact 0, canonical 0, filename 2, social exact 0, crawl 0
+- Heat score (7d): 2.0
+- Mentions: exact 0, canonical 0, filename 1, social exact 0, crawl 0
 - Rationale: filename mentions found; lower-confidence heat
 
 Evidence:
 - googlenews: Comments on New York City’s Executive Budget for Fiscal Year 2027 and Financial Plan for Fiscal Years 2026-2030 - NYC.gov
-- googlenews: As Budget Deadline Nears, Comptroller Levine Urges Focus on Projected $8.8 Billion FY 2028 Budget Gap - NYC.gov
 
 ## 5. Letter to the London Stock Exchange Group and FTSE Russell Re: SpaceX
 
@@ -100,33 +99,7 @@ Evidence:
 - Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
 - Rationale: no public exact-link mentions found in checked heat sources
 
-## 7. DOI's Investigation into the Reclamation of Vacant NYCHA Apartments
-
-- Source: NYC Department of Investigation
-- Agency: n/a
-- Date: 2026-03-03
-- Format: pdf
-- URL: https://www.nyc.gov/assets/doi/reports/pdf/2026/05NYCHAReclaim.Release.Rpt.03.03.2026.pdf
-- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2026/05NYCHAReclaim.Release.Rpt.03.03.2026.pdf
-- Rank window: 7d
-- Heat score (7d): 0.0
-- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
-- Rationale: no public exact-link mentions found in checked heat sources
-
-## 8. Access Denied: Challenges to DOI's Oversight of the City's Child Welfare System
-
-- Source: NYC Department of Investigation
-- Agency: n/a
-- Date: 2026-05-05
-- Format: pdf
-- URL: https://www.nyc.gov/assets/doi/reports/pdf/2026/10ACSReport.Release05.05.2026FINAL.pdf
-- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2026/10ACSReport.Release05.05.2026FINAL.pdf
-- Rank window: 7d
-- Heat score (7d): 0.0
-- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
-- Rationale: no public exact-link mentions found in checked heat sources
-
-## 9. Update on NYPD's Implementation of DOI's 2023 Criminal Group Database Recommendations
+## 7. Update on NYPD's Implementation of DOI's 2023 Criminal Group Database Recommendations
 
 - Source: NYC Department of Investigation
 - Agency: n/a
@@ -139,7 +112,20 @@ Evidence:
 - Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
 - Rationale: no public exact-link mentions found in checked heat sources
 
-## 10. OIG-NYPD Twelfth Annual Report
+## 8. DOI Investigation into the NYPD's Compliance with Local Laws Restricting City Assistance with Immigration Enforcement
+
+- Source: NYC Department of Investigation
+- Agency: n/a
+- Date: 2025-12-03
+- Format: pdf
+- URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/49NYPD.SancLawsRelease.Rpt.12.03.2025.pdf
+- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/49NYPD.SancLawsRelease.Rpt.12.03.2025.pdf
+- Rank window: 7d
+- Heat score (7d): 0.0
+- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
+- Rationale: no public exact-link mentions found in checked heat sources
+
+## 9. OIG-NYPD Twelfth Annual Report
 
 - Source: NYC Department of Investigation
 - Agency: n/a
@@ -152,14 +138,27 @@ Evidence:
 - Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
 - Rationale: no public exact-link mentions found in checked heat sources
 
-## 11. DOI Investigation into the NYPD's Compliance with Local Laws Restricting City Assistance with Immigration Enforcement
+## 10. Access Denied: Challenges to DOI's Oversight of the City's Child Welfare System
 
 - Source: NYC Department of Investigation
 - Agency: n/a
-- Date: 2025-12-03
+- Date: 2026-05-05
 - Format: pdf
-- URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/49NYPD.SancLawsRelease.Rpt.12.03.2025.pdf
-- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/49NYPD.SancLawsRelease.Rpt.12.03.2025.pdf
+- URL: https://www.nyc.gov/assets/doi/reports/pdf/2026/10ACSReport.Release05.05.2026FINAL.pdf
+- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2026/10ACSReport.Release05.05.2026FINAL.pdf
+- Rank window: 7d
+- Heat score (7d): 0.0
+- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
+- Rationale: no public exact-link mentions found in checked heat sources
+
+## 11. DOI's Investigation into the Reclamation of Vacant NYCHA Apartments
+
+- Source: NYC Department of Investigation
+- Agency: n/a
+- Date: 2026-03-03
+- Format: pdf
+- URL: https://www.nyc.gov/assets/doi/reports/pdf/2026/05NYCHAReclaim.Release.Rpt.03.03.2026.pdf
+- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2026/05NYCHAReclaim.Release.Rpt.03.03.2026.pdf
 - Rank window: 7d
 - Heat score (7d): 0.0
 - Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
@@ -204,20 +203,7 @@ Evidence:
 - Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
 - Rationale: no public exact-link mentions found in checked heat sources
 
-## 15. DOI's 2024 Annual Anti-Corruption Report
-
-- Source: NYC Department of Investigation
-- Agency: n/a
-- Date: 2025-09-03
-- Format: pdf
-- URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/33AntiCorruption.Release.Rpt.09.03.2025.pdf
-- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/33AntiCorruption.Release.Rpt.09.03.2025.pdf
-- Rank window: 7d
-- Heat score (7d): 0.0
-- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
-- Rationale: no public exact-link mentions found in checked heat sources
-
-## 16. DOI's Investigation of Excessive Workers' Compensation Claims by City Department of Correction Employees
+## 15. DOI's Investigation of Excessive Workers' Compensation Claims by City Department of Correction Employees
 
 - Source: NYC Department of Investigation
 - Agency: n/a
@@ -225,6 +211,19 @@ Evidence:
 - Format: pdf
 - URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/25Rpt.Release.WorkersComp05.19.2025.pdf
 - Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/25Rpt.Release.WorkersComp05.19.2025.pdf
+- Rank window: 7d
+- Heat score (7d): 0.0
+- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
+- Rationale: no public exact-link mentions found in checked heat sources
+
+## 16. DOI's 2024 Annual Anti-Corruption Report
+
+- Source: NYC Department of Investigation
+- Agency: n/a
+- Date: 2025-09-03
+- Format: pdf
+- URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/33AntiCorruption.Release.Rpt.09.03.2025.pdf
+- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/33AntiCorruption.Release.Rpt.09.03.2025.pdf
 - Rank window: 7d
 - Heat score (7d): 0.0
 - Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
@@ -243,7 +242,20 @@ Evidence:
 - Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
 - Rationale: no public exact-link mentions found in checked heat sources
 
-## 18. Safeguarding NYCHA Residents: A Review of Select Safety Measures at Senior Buildings & Compliance with Fire Guard Requirements
+## 18. An Assessment of NYPD's Use of Social Media
+
+- Source: NYC Department of Investigation
+- Agency: n/a
+- Date: 2025-01-28
+- Format: pdf
+- URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/04SocialMediaRpt_Release_01.28.2025.pdf
+- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/04SocialMediaRpt_Release_01.28.2025.pdf
+- Rank window: 7d
+- Heat score (7d): 0.0
+- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
+- Rationale: no public exact-link mentions found in checked heat sources
+
+## 19. Safeguarding NYCHA Residents: A Review of Select Safety Measures at Senior Buildings & Compliance with Fire Guard Requirements
 
 - Source: NYC Department of Investigation
 - Agency: n/a
@@ -251,19 +263,6 @@ Evidence:
 - Format: pdf
 - URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/14NYCHASecurityFireReleaseRpt03.26.2025.pdf
 - Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/14NYCHASecurityFireReleaseRpt03.26.2025.pdf
-- Rank window: 7d
-- Heat score (7d): 0.0
-- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
-- Rationale: no public exact-link mentions found in checked heat sources
-
-## 19. Investigation into the October 2023 Physical Altercation Involving Former Senior Advisor to the Mayor for Public Safety Timothy Pearson
-
-- Source: NYC Department of Investigation
-- Agency: n/a
-- Date: 2025-02-20
-- Format: pdf
-- URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/10TouroRpt.Release.02.20.2025.pdf
-- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/10TouroRpt.Release.02.20.2025.pdf
 - Rank window: 7d
 - Heat score (7d): 0.0
 - Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
