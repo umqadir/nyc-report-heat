@@ -14,13 +14,31 @@
 - Rationale: filename mentions found; lower-confidence heat
 
 Evidence:
+- googlenews: What income's needed to be middle class in GA in 2026? See the range - Savannah Morning News
+- googlenews: Ranked: The 50 Largest U.S. Cities by Median Income - Visual Capitalist
 - googlenews: Income needed to afford a median-priced home has nearly doubled since 2020, report finds - Fox Business
 - googlenews: Here's how much money you need to make to be middle-class in every US state - Business Insider
-- googlenews: In Orange County, six-figure salaries now qualify as ‘low income’ - Long Beach Post
-- googlenews: State law could help address housing needs for ‘missing middle’ in DuPage, Will counties - Daily Herald
-- googlenews: What income is middle class in Ohio? Where biggest cities rank - Cincinnati Enquirer
+- googlenews: What experts consider middle class in Nevada may surprise you - Reno Gazette Journal
 
-## 2. Protected Occupancy
+## 2. Debt Collectors
+
+- Source: NYC Rules - Proposed
+- Agency: DCWP
+- Date: 2022-12-19
+- Format: html
+- URL: https://rules.cityofnewyork.us/rule/debt-collectors
+- Document URL: n/a
+- Rank window: 7d
+- Heat score (7d): 6.0
+- Mentions: exact 0, canonical 0, filename 3, social exact 0, crawl 0
+- Rationale: filename mentions found; lower-confidence heat
+
+Evidence:
+- googlenews: Is a debt collector contacting you while you're on disability? Here's what to do. - CBS News
+- googlenews: Harassing debt collector calls may violate federal law - Class Action Lawsuits
+- googlenews: Debt collection lawsuit investigation: Credit One, Discover, Barclays, Synchrony, Merrick Bank, American Express, Credit First (CFNA), First Premier Bank, Landmark National Bank - Class Action Lawsuits
+
+## 3. Protected Occupancy
 
 - Source: NYC Rules - Proposed
 - Agency: LOFT BOARD
@@ -29,79 +47,48 @@ Evidence:
 - URL: https://rules.cityofnewyork.us/rule/protected-occupancy
 - Document URL: n/a
 - Rank window: 7d
+- Heat score (7d): 4.0
+- Mentions: exact 0, canonical 0, filename 2, social exact 0, crawl 0
+- Rationale: filename mentions found; lower-confidence heat
+
+Evidence:
+- googlenews: The Long-Term Value of Never Defaulting: Why Multifamily Lenders Prize Reliability Over Growth - TechBullion
+- googlenews: Bombay HC Enhances Compensation For Land Acquired For Kurla-Thane Railway Expansion, Grants Tenants Share - Free Press Journal
+
+## 4. Towing Industry
+
+- Source: NYC Rules - Proposed
+- Agency: DCWP
+- Date: 2022-10-31
+- Format: html
+- URL: https://rules.cityofnewyork.us/rule/towing-industry
+- Document URL: n/a
+- Rank window: 7d
+- Heat score (7d): 4.0
+- Mentions: exact 0, canonical 0, filename 2, social exact 0, crawl 0
+- Rationale: filename mentions found; lower-confidence heat
+
+Evidence:
+- googlenews: Toronto-area teen admits to murdering this tow truck driver as hired gun for ‘influential adults’ inside warring towing industry (Sulakshan Selvasingam) - Reddit
+- googlenews: 16-year-old boy recruited by tow truck industry pleads guilty to murder - Global News
+
+## 5. New York City Cash Balance Projection
+
+- Source: NYC Comptroller
+- Agency: n/a
+- Date: 2026-06-01
+- Format: html
+- URL: https://comptroller.nyc.gov/reports/new-york-city-cash-balance-projection-june-1-2026
+- Document URL: n/a
+- Rank window: 7d
 - Heat score (7d): 2.0
 - Mentions: exact 0, canonical 0, filename 1, social exact 0, crawl 0
 - Rationale: filename mentions found; lower-confidence heat
 
 Evidence:
-- googlenews: Bombay HC Enhances Compensation For Land Acquired For Kurla-Thane Railway Expansion, Grants Tenants Share - Free Press Journal
+- googlenews: New York by the Numbers Monthly Economic and Fiscal Outlook No. 114 – June 2026 - NYC.gov
 
-## 3. Update on NYPD's Implementation of DOI's 2023 Criminal Group Database Recommendations
-
-- Source: NYC Department of Investigation
-- Agency: n/a
-- Date: 2025-10-15
-- Format: pdf
-- URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/41CGDRelease.Rpt.10.15.2025.pdf
-- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/41CGDRelease.Rpt.10.15.2025.pdf
-- Rank window: 7d
-- Heat score (7d): 0.0
-- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
-- Rationale: no public exact-link mentions found in checked heat sources
-
-## 4. Report on the New York City Conflicts of Interest Board's Advisory Opinion and Moonlighting Waiver Practices
-
-- Source: NYC Department of Investigation
-- Agency: n/a
-- Date: 2025-12-18
-- Format: pdf
-- URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/50COIBRelease.Rpt.12.18.2025.pdf
-- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/50COIBRelease.Rpt.12.18.2025.pdf
-- Rank window: 7d
-- Heat score (7d): 0.0
-- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
-- Rationale: no public exact-link mentions found in checked heat sources
-
-## 5. DOI Investigation into the NYPD's Compliance with Local Laws Restricting City Assistance with Immigration Enforcement
-
-- Source: NYC Department of Investigation
-- Agency: n/a
-- Date: 2025-12-03
-- Format: pdf
-- URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/49NYPD.SancLawsRelease.Rpt.12.03.2025.pdf
-- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/49NYPD.SancLawsRelease.Rpt.12.03.2025.pdf
-- Rank window: 7d
-- Heat score (7d): 0.0
-- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
-- Rationale: no public exact-link mentions found in checked heat sources
-
-## 6. Access Denied: Challenges to DOI's Oversight of the City's Child Welfare System
-
-- Source: NYC Department of Investigation
-- Agency: n/a
-- Date: 2026-05-05
-- Format: pdf
-- URL: https://www.nyc.gov/assets/doi/reports/pdf/2026/10ACSReport.Release05.05.2026FINAL.pdf
-- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2026/10ACSReport.Release05.05.2026FINAL.pdf
-- Rank window: 7d
-- Heat score (7d): 0.0
-- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
-- Rationale: no public exact-link mentions found in checked heat sources
-
-## 7. OIG-NYPD Twelfth Annual Report
-
-- Source: NYC Department of Investigation
-- Agency: n/a
-- Date: 2026-04-15
-- Format: pdf
-- URL: https://www.nyc.gov/assets/doi/reports/pdf/2026/08OIGNYPD.AR.Release.Rpt.04.15.2026.pdf
-- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2026/08OIGNYPD.AR.Release.Rpt.04.15.2026.pdf
-- Rank window: 7d
-- Heat score (7d): 0.0
-- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
-- Rationale: no public exact-link mentions found in checked heat sources
-
-## 8. DOI's Investigation into the Reclamation of Vacant NYCHA Apartments
+## 6. DOI's Investigation into the Reclamation of Vacant NYCHA Apartments
 
 - Source: NYC Department of Investigation
 - Agency: n/a
@@ -114,20 +101,72 @@ Evidence:
 - Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
 - Rationale: no public exact-link mentions found in checked heat sources
 
-## 9. DOI Investigation into DOC Correction Intelligence Bureau Investigator Assisting Federal Agents with Immigration Enforcement
+## 7. Update on NYPD's Implementation of DOI's 2023 Criminal Group Database Recommendations
 
 - Source: NYC Department of Investigation
 - Agency: n/a
-- Date: 2025-09-25
+- Date: 2025-10-15
 - Format: pdf
-- URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/38DOC.Release.Rpt.09.25.2025.pdf
-- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/38DOC.Release.Rpt.09.25.2025.pdf
+- URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/41CGDRelease.Rpt.10.15.2025.pdf
+- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/41CGDRelease.Rpt.10.15.2025.pdf
 - Rank window: 7d
 - Heat score (7d): 0.0
 - Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
 - Rationale: no public exact-link mentions found in checked heat sources
 
-## 10. DOI's Findings Regarding "Skimming" of Electronic Benefit Transfer Cards that Provide Vital Funds to Low-Income New Yorkers and Related Recommendations
+## 8. Access Denied: Challenges to DOI's Oversight of the City's Child Welfare System
+
+- Source: NYC Department of Investigation
+- Agency: n/a
+- Date: 2026-05-05
+- Format: pdf
+- URL: https://www.nyc.gov/assets/doi/reports/pdf/2026/10ACSReport.Release05.05.2026FINAL.pdf
+- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2026/10ACSReport.Release05.05.2026FINAL.pdf
+- Rank window: 7d
+- Heat score (7d): 0.0
+- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
+- Rationale: no public exact-link mentions found in checked heat sources
+
+## 9. OIG-NYPD Twelfth Annual Report
+
+- Source: NYC Department of Investigation
+- Agency: n/a
+- Date: 2026-04-15
+- Format: pdf
+- URL: https://www.nyc.gov/assets/doi/reports/pdf/2026/08OIGNYPD.AR.Release.Rpt.04.15.2026.pdf
+- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2026/08OIGNYPD.AR.Release.Rpt.04.15.2026.pdf
+- Rank window: 7d
+- Heat score (7d): 0.0
+- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
+- Rationale: no public exact-link mentions found in checked heat sources
+
+## 10. DOI Investigation into the NYPD's Compliance with Local Laws Restricting City Assistance with Immigration Enforcement
+
+- Source: NYC Department of Investigation
+- Agency: n/a
+- Date: 2025-12-03
+- Format: pdf
+- URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/49NYPD.SancLawsRelease.Rpt.12.03.2025.pdf
+- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/49NYPD.SancLawsRelease.Rpt.12.03.2025.pdf
+- Rank window: 7d
+- Heat score (7d): 0.0
+- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
+- Rationale: no public exact-link mentions found in checked heat sources
+
+## 11. Report on the New York City Conflicts of Interest Board's Advisory Opinion and Moonlighting Waiver Practices
+
+- Source: NYC Department of Investigation
+- Agency: n/a
+- Date: 2025-12-18
+- Format: pdf
+- URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/50COIBRelease.Rpt.12.18.2025.pdf
+- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/50COIBRelease.Rpt.12.18.2025.pdf
+- Rank window: 7d
+- Heat score (7d): 0.0
+- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
+- Rationale: no public exact-link mentions found in checked heat sources
+
+## 12. DOI's Findings Regarding "Skimming" of Electronic Benefit Transfer Cards that Provide Vital Funds to Low-Income New Yorkers and Related Recommendations
 
 - Source: NYC Department of Investigation
 - Agency: n/a
@@ -140,20 +179,7 @@ Evidence:
 - Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
 - Rationale: no public exact-link mentions found in checked heat sources
 
-## 11. DOI's 2024 Annual Anti-Corruption Report
-
-- Source: NYC Department of Investigation
-- Agency: n/a
-- Date: 2025-09-03
-- Format: pdf
-- URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/33AntiCorruption.Release.Rpt.09.03.2025.pdf
-- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/33AntiCorruption.Release.Rpt.09.03.2025.pdf
-- Rank window: 7d
-- Heat score (7d): 0.0
-- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
-- Rationale: no public exact-link mentions found in checked heat sources
-
-## 12. DOI Investigation into Theft Involving Pension Funds Managed by the NYC Employees' Retirement System (NYCERS) and Related Recommendations
+## 13. DOI Investigation into Theft Involving Pension Funds Managed by the NYC Employees' Retirement System (NYCERS) and Related Recommendations
 
 - Source: NYC Department of Investigation
 - Agency: n/a
@@ -166,7 +192,20 @@ Evidence:
 - Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
 - Rationale: no public exact-link mentions found in checked heat sources
 
-## 13. DOI's Investigation of Excessive Workers' Compensation Claims by City Department of Correction Employees
+## 14. DOI Investigation into DOC Correction Intelligence Bureau Investigator Assisting Federal Agents with Immigration Enforcement
+
+- Source: NYC Department of Investigation
+- Agency: n/a
+- Date: 2025-09-25
+- Format: pdf
+- URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/38DOC.Release.Rpt.09.25.2025.pdf
+- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/38DOC.Release.Rpt.09.25.2025.pdf
+- Rank window: 7d
+- Heat score (7d): 0.0
+- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
+- Rationale: no public exact-link mentions found in checked heat sources
+
+## 15. DOI's Investigation of Excessive Workers' Compensation Claims by City Department of Correction Employees
 
 - Source: NYC Department of Investigation
 - Agency: n/a
@@ -179,7 +218,7 @@ Evidence:
 - Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
 - Rationale: no public exact-link mentions found in checked heat sources
 
-## 14. Eleventh Annual Report of DOI's Office of the Inspector General for the NYPD
+## 16. Eleventh Annual Report of DOI's Office of the Inspector General for the NYPD
 
 - Source: NYC Department of Investigation
 - Agency: n/a
@@ -192,7 +231,20 @@ Evidence:
 - Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
 - Rationale: no public exact-link mentions found in checked heat sources
 
-## 15. Safeguarding NYCHA Residents: A Review of Select Safety Measures at Senior Buildings & Compliance with Fire Guard Requirements
+## 17. DOI's 2024 Annual Anti-Corruption Report
+
+- Source: NYC Department of Investigation
+- Agency: n/a
+- Date: 2025-09-03
+- Format: pdf
+- URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/33AntiCorruption.Release.Rpt.09.03.2025.pdf
+- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/33AntiCorruption.Release.Rpt.09.03.2025.pdf
+- Rank window: 7d
+- Heat score (7d): 0.0
+- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
+- Rationale: no public exact-link mentions found in checked heat sources
+
+## 18. Safeguarding NYCHA Residents: A Review of Select Safety Measures at Senior Buildings & Compliance with Fire Guard Requirements
 
 - Source: NYC Department of Investigation
 - Agency: n/a
@@ -205,33 +257,7 @@ Evidence:
 - Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
 - Rationale: no public exact-link mentions found in checked heat sources
 
-## 16. An Assessment of NYPD's Use of Social Media
-
-- Source: NYC Department of Investigation
-- Agency: n/a
-- Date: 2025-01-28
-- Format: pdf
-- URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/04SocialMediaRpt_Release_01.28.2025.pdf
-- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/04SocialMediaRpt_Release_01.28.2025.pdf
-- Rank window: 7d
-- Heat score (7d): 0.0
-- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
-- Rationale: no public exact-link mentions found in checked heat sources
-
-## 17. Equal Employment Opportunity Policies and Practices at the New York City Board of Elections
-
-- Source: NYC Department of Investigation
-- Agency: n/a
-- Date: 2025-01-08
-- Format: pdf
-- URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/02BOERpt.Release01.08.2025.pdf
-- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/02BOERpt.Release01.08.2025.pdf
-- Rank window: 7d
-- Heat score (7d): 0.0
-- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
-- Rationale: no public exact-link mentions found in checked heat sources
-
-## 18. Investigation into the October 2023 Physical Altercation Involving Former Senior Advisor to the Mayor for Public Safety Timothy Pearson
+## 19. Investigation into the October 2023 Physical Altercation Involving Former Senior Advisor to the Mayor for Public Safety Timothy Pearson
 
 - Source: NYC Department of Investigation
 - Agency: n/a
@@ -244,27 +270,14 @@ Evidence:
 - Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
 - Rationale: no public exact-link mentions found in checked heat sources
 
-## 19. An Assessment of NYPD's Compliance with the POST Act
+## 20. An Assessment of NYPD's Use of Social Media
 
 - Source: NYC Department of Investigation
 - Agency: n/a
-- Date: 2024-12-18
+- Date: 2025-01-28
 - Format: pdf
-- URL: https://www.nyc.gov/assets/doi/reports/pdf/2024/49PostActRelease.Rpt.12.18.2024.pdf
-- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2024/49PostActRelease.Rpt.12.18.2024.pdf
-- Rank window: 7d
-- Heat score (7d): 0.0
-- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
-- Rationale: no public exact-link mentions found in checked heat sources
-
-## 20. Investigation Concerning New York City Police Department Security Details for City Elected Officials
-
-- Source: NYC Department of Investigation
-- Agency: n/a
-- Date: 2025-01-08
-- Format: pdf
-- URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/01SecurityDetailRpt.Release01.08.2025.pdf
-- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/01SecurityDetailRpt.Release01.08.2025.pdf
+- URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/04SocialMediaRpt_Release_01.28.2025.pdf
+- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/04SocialMediaRpt_Release_01.28.2025.pdf
 - Rank window: 7d
 - Heat score (7d): 0.0
 - Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
