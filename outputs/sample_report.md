@@ -10,15 +10,15 @@
 - Document URL: n/a
 - Rank window: 7d
 - Heat score (7d): 10.0
-- Mentions: exact 0, canonical 0, filename 9, social exact 0, crawl 0
+- Mentions: exact 0, canonical 0, filename 11, social exact 0, crawl 0
 - Rationale: filename mentions found; lower-confidence heat
 
 Evidence:
+- googlenews: Are you middle class in Bucks County? New report details income needed - PhillyBurbs
+- googlenews: What counts as middle class income in Iowa? - The Des Moines Register
 - googlenews: What income's needed to be middle class in GA in 2026? See the range - Savannah Morning News
 - googlenews: Ranked: The 50 Largest U.S. Cities by Median Income - Visual Capitalist
 - googlenews: Income needed to afford a median-priced home has nearly doubled since 2020, report finds - Fox Business
-- googlenews: Here's how much money you need to make to be middle-class in every US state - Business Insider
-- googlenews: What experts consider middle class in Nevada may surprise you - Reno Gazette Journal
 
 ## 2. Debt Collectors
 
@@ -29,14 +29,16 @@ Evidence:
 - URL: https://rules.cityofnewyork.us/rule/debt-collectors
 - Document URL: n/a
 - Rank window: 7d
-- Heat score (7d): 6.0
-- Mentions: exact 0, canonical 0, filename 3, social exact 0, crawl 0
+- Heat score (7d): 10.0
+- Mentions: exact 0, canonical 0, filename 6, social exact 0, crawl 0
 - Rationale: filename mentions found; lower-confidence heat
 
 Evidence:
 - googlenews: Is a debt collector contacting you while you're on disability? Here's what to do. - CBS News
+- googlenews: FRA registers first two debt collectors as deadline nears - EnterpriseAM
 - googlenews: Harassing debt collector calls may violate federal law - Class Action Lawsuits
-- googlenews: Debt collection lawsuit investigation: Credit One, Discover, Barclays, Synchrony, Merrick Bank, American Express, Credit First (CFNA), First Premier Bank, Landmark National Bank - Class Action Lawsuits
+- googlenews: Debt collectors unleashed in $612m crackdown - The Australian
+- googlenews: Mykolaivvodokanal is seeking debt collectors to recover ₴6 million in debts - NikVesti
 
 ## 3. Protected Occupancy
 
@@ -55,30 +57,13 @@ Evidence:
 - googlenews: The Long-Term Value of Never Defaulting: Why Multifamily Lenders Prize Reliability Over Growth - TechBullion
 - googlenews: Bombay HC Enhances Compensation For Land Acquired For Kurla-Thane Railway Expansion, Grants Tenants Share - Free Press Journal
 
-## 4. Towing Industry
-
-- Source: NYC Rules - Proposed
-- Agency: DCWP
-- Date: 2022-10-31
-- Format: html
-- URL: https://rules.cityofnewyork.us/rule/towing-industry
-- Document URL: n/a
-- Rank window: 7d
-- Heat score (7d): 4.0
-- Mentions: exact 0, canonical 0, filename 2, social exact 0, crawl 0
-- Rationale: filename mentions found; lower-confidence heat
-
-Evidence:
-- googlenews: Toronto-area teen admits to murdering this tow truck driver as hired gun for ‘influential adults’ inside warring towing industry (Sulakshan Selvasingam) - Reddit
-- googlenews: 16-year-old boy recruited by tow truck industry pleads guilty to murder - Global News
-
-## 5. New York City Cash Balance Projection
+## 4. The Pied-à-Terre Tax and Its Potential Revenues
 
 - Source: NYC Comptroller
 - Agency: n/a
-- Date: 2026-06-01
+- Date: 2026-04-30
 - Format: html
-- URL: https://comptroller.nyc.gov/reports/new-york-city-cash-balance-projection-june-1-2026
+- URL: https://comptroller.nyc.gov/reports/the-pied-a-terre-tax-and-its-potential-revenues
 - Document URL: n/a
 - Rank window: 7d
 - Heat score (7d): 2.0
@@ -88,46 +73,23 @@ Evidence:
 Evidence:
 - googlenews: New York by the Numbers Monthly Economic and Fiscal Outlook No. 114 – June 2026 - NYC.gov
 
-## 6. DOI's Investigation into the Reclamation of Vacant NYCHA Apartments
+## 5. Emergency Food Assistance Program
 
-- Source: NYC Department of Investigation
-- Agency: n/a
-- Date: 2026-03-03
-- Format: pdf
-- URL: https://www.nyc.gov/assets/doi/reports/pdf/2026/05NYCHAReclaim.Release.Rpt.03.03.2026.pdf
-- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2026/05NYCHAReclaim.Release.Rpt.03.03.2026.pdf
+- Source: NYC Rules - Proposed
+- Agency: HRA
+- Date: 2022-08-12
+- Format: html
+- URL: https://rules.cityofnewyork.us/rule/emergency-food-assistance-program
+- Document URL: n/a
 - Rank window: 7d
-- Heat score (7d): 0.0
-- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
-- Rationale: no public exact-link mentions found in checked heat sources
+- Heat score (7d): 2.0
+- Mentions: exact 0, canonical 0, filename 1, social exact 0, crawl 0
+- Rationale: filename mentions found; lower-confidence heat
 
-## 7. Update on NYPD's Implementation of DOI's 2023 Criminal Group Database Recommendations
+Evidence:
+- googlenews: Washington County Commissioners return funding to county food bank - Mon Valley Independent
 
-- Source: NYC Department of Investigation
-- Agency: n/a
-- Date: 2025-10-15
-- Format: pdf
-- URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/41CGDRelease.Rpt.10.15.2025.pdf
-- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/41CGDRelease.Rpt.10.15.2025.pdf
-- Rank window: 7d
-- Heat score (7d): 0.0
-- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
-- Rationale: no public exact-link mentions found in checked heat sources
-
-## 8. Access Denied: Challenges to DOI's Oversight of the City's Child Welfare System
-
-- Source: NYC Department of Investigation
-- Agency: n/a
-- Date: 2026-05-05
-- Format: pdf
-- URL: https://www.nyc.gov/assets/doi/reports/pdf/2026/10ACSReport.Release05.05.2026FINAL.pdf
-- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2026/10ACSReport.Release05.05.2026FINAL.pdf
-- Rank window: 7d
-- Heat score (7d): 0.0
-- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
-- Rationale: no public exact-link mentions found in checked heat sources
-
-## 9. OIG-NYPD Twelfth Annual Report
+## 6. OIG-NYPD Twelfth Annual Report
 
 - Source: NYC Department of Investigation
 - Agency: n/a
@@ -140,7 +102,7 @@ Evidence:
 - Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
 - Rationale: no public exact-link mentions found in checked heat sources
 
-## 10. DOI Investigation into the NYPD's Compliance with Local Laws Restricting City Assistance with Immigration Enforcement
+## 7. DOI Investigation into the NYPD's Compliance with Local Laws Restricting City Assistance with Immigration Enforcement
 
 - Source: NYC Department of Investigation
 - Agency: n/a
@@ -148,6 +110,45 @@ Evidence:
 - Format: pdf
 - URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/49NYPD.SancLawsRelease.Rpt.12.03.2025.pdf
 - Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/49NYPD.SancLawsRelease.Rpt.12.03.2025.pdf
+- Rank window: 7d
+- Heat score (7d): 0.0
+- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
+- Rationale: no public exact-link mentions found in checked heat sources
+
+## 8. Update on NYPD's Implementation of DOI's 2023 Criminal Group Database Recommendations
+
+- Source: NYC Department of Investigation
+- Agency: n/a
+- Date: 2025-10-15
+- Format: pdf
+- URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/41CGDRelease.Rpt.10.15.2025.pdf
+- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/41CGDRelease.Rpt.10.15.2025.pdf
+- Rank window: 7d
+- Heat score (7d): 0.0
+- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
+- Rationale: no public exact-link mentions found in checked heat sources
+
+## 9. DOI's Investigation into the Reclamation of Vacant NYCHA Apartments
+
+- Source: NYC Department of Investigation
+- Agency: n/a
+- Date: 2026-03-03
+- Format: pdf
+- URL: https://www.nyc.gov/assets/doi/reports/pdf/2026/05NYCHAReclaim.Release.Rpt.03.03.2026.pdf
+- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2026/05NYCHAReclaim.Release.Rpt.03.03.2026.pdf
+- Rank window: 7d
+- Heat score (7d): 0.0
+- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
+- Rationale: no public exact-link mentions found in checked heat sources
+
+## 10. Access Denied: Challenges to DOI's Oversight of the City's Child Welfare System
+
+- Source: NYC Department of Investigation
+- Agency: n/a
+- Date: 2026-05-05
+- Format: pdf
+- URL: https://www.nyc.gov/assets/doi/reports/pdf/2026/10ACSReport.Release05.05.2026FINAL.pdf
+- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2026/10ACSReport.Release05.05.2026FINAL.pdf
 - Rank window: 7d
 - Heat score (7d): 0.0
 - Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
@@ -179,20 +180,7 @@ Evidence:
 - Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
 - Rationale: no public exact-link mentions found in checked heat sources
 
-## 13. DOI Investigation into Theft Involving Pension Funds Managed by the NYC Employees' Retirement System (NYCERS) and Related Recommendations
-
-- Source: NYC Department of Investigation
-- Agency: n/a
-- Date: 2025-09-17
-- Format: pdf
-- URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/36NYCERS.Release.Rpt.09.17.2025.pdf
-- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/36NYCERS.Release.Rpt.09.17.2025.pdf
-- Rank window: 7d
-- Heat score (7d): 0.0
-- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
-- Rationale: no public exact-link mentions found in checked heat sources
-
-## 14. DOI Investigation into DOC Correction Intelligence Bureau Investigator Assisting Federal Agents with Immigration Enforcement
+## 13. DOI Investigation into DOC Correction Intelligence Bureau Investigator Assisting Federal Agents with Immigration Enforcement
 
 - Source: NYC Department of Investigation
 - Agency: n/a
@@ -205,7 +193,7 @@ Evidence:
 - Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
 - Rationale: no public exact-link mentions found in checked heat sources
 
-## 15. DOI's Investigation of Excessive Workers' Compensation Claims by City Department of Correction Employees
+## 14. DOI's Investigation of Excessive Workers' Compensation Claims by City Department of Correction Employees
 
 - Source: NYC Department of Investigation
 - Agency: n/a
@@ -218,20 +206,7 @@ Evidence:
 - Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
 - Rationale: no public exact-link mentions found in checked heat sources
 
-## 16. Eleventh Annual Report of DOI's Office of the Inspector General for the NYPD
-
-- Source: NYC Department of Investigation
-- Agency: n/a
-- Date: 2025-04-01
-- Format: pdf
-- URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/17OIGNYPDARRelease.Rpt.04.01.2025.pdf
-- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/17OIGNYPDARRelease.Rpt.04.01.2025.pdf
-- Rank window: 7d
-- Heat score (7d): 0.0
-- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
-- Rationale: no public exact-link mentions found in checked heat sources
-
-## 17. DOI's 2024 Annual Anti-Corruption Report
+## 15. DOI's 2024 Annual Anti-Corruption Report
 
 - Source: NYC Department of Investigation
 - Agency: n/a
@@ -239,6 +214,32 @@ Evidence:
 - Format: pdf
 - URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/33AntiCorruption.Release.Rpt.09.03.2025.pdf
 - Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/33AntiCorruption.Release.Rpt.09.03.2025.pdf
+- Rank window: 7d
+- Heat score (7d): 0.0
+- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
+- Rationale: no public exact-link mentions found in checked heat sources
+
+## 16. DOI Investigation into Theft Involving Pension Funds Managed by the NYC Employees' Retirement System (NYCERS) and Related Recommendations
+
+- Source: NYC Department of Investigation
+- Agency: n/a
+- Date: 2025-09-17
+- Format: pdf
+- URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/36NYCERS.Release.Rpt.09.17.2025.pdf
+- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/36NYCERS.Release.Rpt.09.17.2025.pdf
+- Rank window: 7d
+- Heat score (7d): 0.0
+- Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
+- Rationale: no public exact-link mentions found in checked heat sources
+
+## 17. Eleventh Annual Report of DOI's Office of the Inspector General for the NYPD
+
+- Source: NYC Department of Investigation
+- Agency: n/a
+- Date: 2025-04-01
+- Format: pdf
+- URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/17OIGNYPDARRelease.Rpt.04.01.2025.pdf
+- Document URL: https://www.nyc.gov/assets/doi/reports/pdf/2025/17OIGNYPDARRelease.Rpt.04.01.2025.pdf
 - Rank window: 7d
 - Heat score (7d): 0.0
 - Mentions: exact 0, canonical 0, filename 0, social exact 0, crawl 0
